@@ -1,0 +1,8 @@
+tqdm
+numpy
+matplotlib
+seaborn
+sklearn
+nltk
+spacy
+wordcloud
