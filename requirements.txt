@@ -6,3 +6,4 @@ sklearn
 nltk
 spacy
 wordcloud
+imblearn
